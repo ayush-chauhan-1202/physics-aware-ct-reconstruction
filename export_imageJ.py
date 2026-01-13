@@ -1,3 +1,6 @@
+##File → Import → Raw → 128×128×128 uint16
+
+
 import numpy as np
 
 vol = np.load("recon.npy")
