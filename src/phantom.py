@@ -1,3 +1,5 @@
+##Synthetic 3D data generator
+
 import numpy as np
 
 def generate_sphere_phantom(size=128):
