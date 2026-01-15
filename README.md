@@ -1,4 +1,4 @@
-# Physics-Aware Cone Beam CT Reconstruction
+[gen_data.tif](https://github.com/user-attachments/files/24642865/gen_data.tif)# Physics-Aware Cone Beam CT Reconstruction
 
 A GPU-accelerated, physics-informed CT reconstruction pipeline combining:
 - Classical filtered backprojection (FDK)
@@ -19,9 +19,10 @@ Industrial imaging systems (X-ray CT, NDE) require high-quality reconstruction u
 - Export to ImageJ raw volumes
 
 ## Example Results
-| Ground Truth | FDK | Iterative |
-|--------------|-----|-----------|
-| (add image)   | ... | ...       |
+| Ground Truth | FDK | FDK + DL | Iterative |
+|--------------|-----|-----------|-------|
+|<img width="386" height="384" alt="image" src="https://github.com/user-attachments/assets/b5c20557-c6f7-4bfe-ba65-dd473637752a" />
+              |     |           |       |
 
 ## How to Run
 ```bash
