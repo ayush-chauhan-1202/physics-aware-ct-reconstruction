@@ -21,11 +21,7 @@ Industrial imaging systems (X-ray CT, NDE) require high-quality reconstruction u
 ## Example Results
 | Ground Truth | FDK | FDK + DL | Iterative |
 |--------------|-----|-----------|-------|
-|<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b5c20557-c6f7-4bfe-ba65-dd473637752a" /> |
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a4ec7fa1-0a18-4918-b4f5-eb696cf0731c" />
-     |<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5305336d-5e74-4175-8f9c-7c8899cb484e" />
-           |<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2bc14571-7bc6-4fe5-8d81-ec575ce45dfd" />
-       |
+
 
 ## How to Run
 ```bash
