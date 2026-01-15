@@ -21,7 +21,8 @@ Industrial imaging systems (X-ray CT, NDE) require high-quality reconstruction u
 ## Example Results
 | Ground Truth | FDK | FDK + DL | Iterative |
 |--------------|-----|-----------|-------|
-<img width="1709" height="428" alt="image" src="https://github.com/user-attachments/assets/264bbc30-b76d-4354-b1a8-73b2b3b54500" />
+<img width="1716" height="427" alt="image" src="https://github.com/user-attachments/assets/5796d786-fb98-48ec-8a02-bd7b6251467f" />
+
 
 
 
